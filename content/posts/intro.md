@@ -11,3 +11,7 @@ Para mi la cultura de un desarrollador de software se basa en
 -Dominio de estructuras de datos
 -Buen pensamiento logico
 
+
+
+
+
